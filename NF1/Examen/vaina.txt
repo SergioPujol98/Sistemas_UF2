@@ -1,0 +1,22 @@
+Ubuntu
+ls -a , listar ficheros/archivos
+cd , mover el directorio de trabajo
+
+--ficheros
+--? comodin una posicion
+--* comodin posiciones hasta
+--[letra-letra] posicion que contega las letras tal o negado !
+--COPY CON crear fichero y editarlo
+--
+--fdisk particiones
+--mount montar disco dir particiones
+--uptime
+--vmstat
+--ps -ef | grep vaina
+--isostat
+--mpstat
+--dpkg -l
+--#!/bin/bash
+-- crontab -e
+
+

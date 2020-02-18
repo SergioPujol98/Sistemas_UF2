@@ -1,0 +1,16 @@
+ls
+pwd
+stat nombre_fichero
+man comando
+comando -help
+cp
+mv
+rm
+mkdir -p --> Crea muchos directorios de una tirada
+
+
+
+
+xcopy
+move
+xcopy con crear archivo
